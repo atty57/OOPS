@@ -1,4 +1,4 @@
-# 🐍 Object-Oriented Programming (OOP) in Python
+#  Object-Oriented Programming (OOP) in Python
 
 A comprehensive collection of Python examples demonstrating fundamental Object-Oriented Programming concepts. This repository serves as a refresher for OOP principles with practical implementations.
 
